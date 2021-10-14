@@ -1,2 +1,2 @@
-# IPS120
-GUI and code for IPS120 operation
+# Lab
+Packages for connecting equipment in lab
